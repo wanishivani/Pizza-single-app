@@ -17,14 +17,14 @@ const Footer = () => {
           <h1 className={styles.title}>FIND OUR RESTAURANTS</h1>
           <p className={styles.text}>
             1654 R.Nelamangla #304.
-            <br /> BANGALORE	, 85022
+            <br /> BANGALORE	, 85022 
             <br /> (080) 867-1010
           </p>
           <p className={styles.text}>
             2356 K.Devanhalli, #235.
             <br /> BANGALORE	, 85022
             <br /> (080) 867-1011
-          </p>
+          </p> 
           <p className={styles.text}> 
             1614 E. Devanhalli, #104.
             <br /> BANGALORE, 85022
